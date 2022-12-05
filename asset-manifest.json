@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rohitgawade603/rentproperty/static/css/main.44b86eda.css",
+    "main.js": "/rohitgawade603/rentproperty/static/js/main.55d86d02.js",
+    "static/js/787.368cbfae.chunk.js": "/rohitgawade603/rentproperty/static/js/787.368cbfae.chunk.js",
+    "index.html": "/rohitgawade603/rentproperty/index.html",
+    "main.44b86eda.css.map": "/rohitgawade603/rentproperty/static/css/main.44b86eda.css.map",
+    "main.55d86d02.js.map": "/rohitgawade603/rentproperty/static/js/main.55d86d02.js.map",
+    "787.368cbfae.chunk.js.map": "/rohitgawade603/rentproperty/static/js/787.368cbfae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b86eda.css",
+    "static/js/main.55d86d02.js"
+  ]
+}
